@@ -1,0 +1,3 @@
+node_modules
+git remote add origin https://github.com/fredyz99/todoListApi.git
+git push -u origin master
