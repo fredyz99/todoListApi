@@ -1,0 +1,20 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "Repository ini merupakan repository untuk membuat API pada aplikasi todoList.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredyz99/todoListApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredyz99/todoListApi/issues"
+  },
+  "homepage": "https://github.com/fredyz99/todoListApi#readme"
+}
